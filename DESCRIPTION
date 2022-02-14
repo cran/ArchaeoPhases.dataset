@@ -1,8 +1,8 @@
 Package: ArchaeoPhases.dataset
 Type: Package
 Title: Data Sets for 'ArchaeoPhases' Vignettes
-Version: 0.1.0
-Date: 2020-05-23
+Version: 0.2.0
+Date: 2022-02-14
 Author: Anne Philippe [aut, cre],
   Thomas S. Dye [ctb]
 Authors@R: c(
@@ -14,9 +14,10 @@ License: GPL-3
 Depends: R (>= 3.5.0)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.0
+LazyDataCompression: bzip2
+RoxygenNote: 7.1.2
 NeedsCompilation: no
 Maintainer: Anne Philippe <anne.philippe@univ-nantes.fr>
-Packaged: 2020-05-29 06:17:25 UTC; annephilippe
 Repository: CRAN
-Date/Publication: 2020-06-04 09:10:06 UTC
+Packaged: 2022-02-14 15:40:58 UTC; annephilippe
+Date/Publication: 2022-02-14 16:00:02 UTC
